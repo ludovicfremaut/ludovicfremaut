@@ -1,102 +1,59 @@
-# Ludovic Fremaut
+# Bonjour, je suis Ludovic 👋
 
-**Développeur web**  
-**Recherche : alternance Data / IA ou premier poste en développement**  
-  - Ou poste IT technique (support, systèmes, exploitation) avec montée en compétences  
-Diplômé 2025 — Titre Professionnel Concepteur Développeur d’Applications (niveau 6)  
-  - Hauts-de-France  
-  - Disponible immédiatement  
-  - Portfolio : https://portfolio-ludovic.duckdns.org  
+**Concepteur développeur d'applications**, en freelance avec [Le Temps d'un Site](https://letempsdunsite.fr), et co-fondateur de [GoSportNow](https://gosportnow.fr).
+Basé dans la Somme (Hauts-de-France) · Titre professionnel CDA, niveau licence (2025).
+
+> ▶ **Mon parcours en 8 minutes, raconté et animé : [parcours.letempsdunsite.fr](https://parcours.letempsdunsite.fr)**
 
 ---
 
-## À propos
+## D'où je viens
 
-Je suis développeur web avec une approche simple et concrète :  
-utiliser l’outil informatique pour **résoudre des problématiques réelles**.
+Vingt ans en maintenance industrielle : 7 ans chez Dunlop (pneumatique), puis 14 ans dans une cartonnerie du groupe DS Smith, avec du 5S, de l'amélioration continue, des chantiers d'arrêt et de l'impression 3D pour l'atelier.
 
-Après vingt ans en maintenance industrielle, j’ai choisi de me reconvertir dans le développement afin de continuer à travailler sur des projets techniques, utiles et structurés, cette fois côté logiciel.
+Après un accident du travail en 2023, j'ai changé de voie. En novembre 2024, je suis reparti de zéro en formation. En octobre 2025, j'ai obtenu le titre professionnel **Concepteur Développeur d'Applications**.
 
-J’aime travailler sur des **projets concrets**, comprendre un besoin, lire la documentation, tester, corriger et améliorer.  
-Je suis également ouvert à découvrir de **nouveaux environnements IT** et à relever des challenges techniques que je ne connais pas encore.
+De la maintenance, j'ai gardé une méthode : **écouter, comprendre ce qui bloque, trouver la pièce qui manque, puis la construire proprement.**
 
 ---
 
-## Pourquoi ce GitHub
+## Ce sur quoi je travaille
 
-Je suis parti **from scratch en novembre 2024**.  
-Cette reconversion m’a permis d’obtenir en **octobre 2025** le **Titre Professionnel Concepteur Développeur d’Applications**.
+### 📱 GoSportNow · Lead Frontend, marketing et promotion
+Application mobile pour trouver un partenaire de sport près de chez soi, publiée sur l'App Store et Google Play. Elle est développée à trois, en méthode agile.
+`React Native` · `Node.js`
+→ [gosportnow.fr](https://gosportnow.fr) · le code est dans l'organisation [GoSportNow](https://github.com/GoSportNow) (privée)
 
-Ce GitHub est avant tout un **espace de travail et de progression**.
+### 🌐 Le Temps d'un Site · freelance
+Sites web pour les artisans, commerces et indépendants de la région : des gens qui savent faire, mais qui ne savent pas toujours le montrer.
+`Astro` · `TypeScript` · `Cloudflare Pages` · SEO local · accessibilité RGAA
+→ [letempsdunsite.fr](https://letempsdunsite.fr) · le code est dans l'organisation [letempsdunsite](https://github.com/letempsdunsite) (privée)
 
-Les projets présents ici sont pour l’instant **volontairement simples**.  
-Ils me servent à consolider mes bases et à pratiquer le métier au quotidien.
+### 🎞️ [Mon itinéraire professionnel](https://github.com/ludovicfremaut/itineraire-pro) · public
+Présentation animée et narrée de mon parcours : 54 étapes, un personnage en SVG qui évolue, un chemin qui monte ou chute selon les étapes, et ma propre voix.
+`HTML` · `CSS` · `JavaScript sans framework` · `SVG`
+→ [démo en ligne](https://parcours.letempsdunsite.fr)
 
-S’ils sont publiés, c’est que les **concepts sont compris et en place** :  
-je suis capable de **les reproduire, de les modifier et de les faire évoluer**.
+### 🤖 JobPilot · privé
+Assistant à base d'agents IA qui automatise une recherche d'emploi : veille, tri et rédaction assistée, avec validation humaine avant tout envoi.
+`Node.js` · `IA / agents` · `automatisation`
 
-Je ne cherche pas à afficher des choses que je ne sais pas faire.  
-En revanche, améliorer un projet existant, l’aborder différemment ou en discuter avec d’autres développeurs est quelque chose qui m’intéresse beaucoup.
+### 💼 Portfolio
+→ [ludovic-dev.com](https://ludovic-dev.com) · [code source](https://github.com/ludovicfremaut/portfolio-ludovic)
+`React` · `Vite` · `Tailwind CSS`
 
----
-
-## Ce que vous trouverez ici
-
-Des petits projets ou fonctionnalités ciblées, par exemple :
-
-- affichage d’une modal au scroll  
-- menu burger fonctionnel et accessible  
-- toast de notification  
-- formulaire simple et robuste  
-- calculatrice  
-- mini site ou interface d’étude  
-- petits projets de logique ou d’interactions  
-
-Ces projets sont simples, mais **maîtrisés**.  
-Chaque dépôt contient un **README court**, qui explique le problème à résoudre, la solution choisie et les pistes d’amélioration.
+> La plupart de mon travail se trouve dans des dépôts privés (clients et organisations). Le calendrier de contributions en tient compte, et je montre volontiers le code en entretien.
 
 ---
 
-## Projets en cours et à venir
+## Ce que je cherche
 
-En parallèle de ces exercices, je travaille sur des **projets plus concrets et plus complets**, parfois en lien avec des besoins réels.
-
-Ils seront publiés **progressivement**, au fur et à mesure de leur avancement.  
-Je préfère avancer étape par étape, livrer des choses propres, et faire évoluer ce GitHub dans le temps.
+Ma prochaine opportunité en développement : un poste ou une alternance, dans une équipe où je pourrai apporter à la fois du code et vingt ans d'expérience du terrain.
 
 ---
 
-## À propos de l’IA
+## Me contacter
 
-J’utilise l’IA comme **outil d’aide à la réflexion**, mais je choisis de **coder moi-même** les projets présentés ici.
-
-Pour moi, le métier de développeur consiste avant tout à comprendre un problème, lire la documentation, concevoir une solution et l’implémenter.
-
----
-
-## Technologies utilisées
-
-- JavaScript (Vanilla)
-- HTML / CSS
-- Python (apprentissage en parallèle, orienté algorithmique et data)
-
----
-
-## Portfolio
-
-- Architecture CSS 7-1  
-- Interface sobre et lisible  
-- Chat temps réel (Socket.IO)  
-- Compteur de visites  
-- Déploiement sur Debian 13 avec Docker et Nginx   
-
----
-
-## Échange et contact
-
-Je suis ouvert à l’échange, aux retours et aux discussions techniques.  
-Il est possible de me contacter directement via la **messagerie instantanée intégrée à mon portfolio**.
-
-- Email : fremaut.ludovic@icloud.com  
-- GitHub : https://github.com/ludovicfremaut  
-- LinkedIn : https://www.linkedin.com/in/ludovic-fremaut-dev  
+- LinkedIn : [in/ludovic-fremaut-dev](https://www.linkedin.com/in/ludovic-fremaut-dev)
+- Portfolio : [ludovic-dev.com](https://ludovic-dev.com)
+- Site pro : [letempsdunsite.fr](https://letempsdunsite.fr)
